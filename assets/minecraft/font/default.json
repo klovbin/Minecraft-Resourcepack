@@ -3,14 +3,14 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/admin.png",
-      "ascent": 6,
+      "ascent": 7,
       "height": 7,
       "chars": ["\uE001"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/player.png",
-      "ascent": 6,
+      "ascent": 7,
       "height": 7,
       "chars": ["\uE002"]
     }
